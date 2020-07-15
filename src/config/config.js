@@ -6,6 +6,4 @@ export default {
     storageBucket: "octopus-9ee2f.appspot.com",
     messagingSenderId: "795223383400",
     appId: "1:795223383400:web:147c4a054ac718d6a48add"
-
-
 };
