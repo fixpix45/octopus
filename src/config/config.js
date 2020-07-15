@@ -1,9 +1,9 @@
 export default {
-    apiKey: "AIzaSyAxNwFh_g441eKmXBpHAyq9KMsvf3h2Q08",
-    authDomain: "taloctopus.firebaseapp.com",
-    databaseURL: "https://taloctopus.firebaseio.com",
-    projectId: "taloctopus",
-    storageBucket: "taloctopus.appspot.com",
-    messagingSenderId: "1054521991492",
-    appId: "1:1054521991492:web:a2c4befeec2c66124fb711"
+    apiKey: "AIzaSyCt6iJXEEflQxEOcqhMt5ul0fYNTtMxSd0",
+    authDomain: "octopus-9ee2f.firebaseapp.com",
+    databaseURL: "https://octopus-9ee2f.firebaseio.com",
+    projectId: "octopus-9ee2f",
+    storageBucket: "octopus-9ee2f.appspot.com",
+    messagingSenderId: "795223383400",
+    appId: "1:795223383400:web:5f44d354c19902c9a48add"
 };
